@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">A Creative And Diligent Aspiring Full-Stack Developer With A Specialization In Java Backend. Self-Believing And Enthusiastic, With A Keen Interest In Building And Designing Backend. Looking Forward To Sharpening My Skills In A Challenging Environment. I Guarantee Enthusiasm In Work And Fulfilling My Projects With Inexpressible Efforts.</h3>
 
+<img align ="right"alt="Coding"width=400" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=1000x500">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit9252&label=Profile%20views&color=0e75b6&style=flat" alt="rohit9252" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit9252" alt="rohit9252" /></a> </p>
