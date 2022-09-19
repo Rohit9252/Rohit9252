@@ -42,13 +42,8 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
                                                        
-<h2><i>My GitHub Stats</i></h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahtishamkhan5678&label=Profile%20views&color=0e75b6&style=flat" alt="ahtishamkhan5678" /> </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ahtishamkhan5678&show_icons=true&locale=en&theme=dark" alt="ahtishamkhan5678"  height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtishamkhan5678&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="ahtishamkhan5678" height="139" />
-</p>
+
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ahtishamkhan5678&theme=xcode" height ="307"/>
 
@@ -61,17 +56,6 @@
 
 
 
-<div align="center">  
-                                                         
-<h3 align="left">Connect with me</h3>
-<p align="center">
-<a href="https://twitter.com/mohamma23568021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamma23568021" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammad-ahtisham-85a17a228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ahtisham" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/UCsxwht_uFh_G_iGmfNRs1bQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsxwht_ufh_g_igmfnrs1bq/featured" height="30" width="40" /></a>
-</p>
-</div>  
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
                                                           
 
