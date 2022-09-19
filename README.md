@@ -33,11 +33,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit9252&show_icons=true&locale=en&layout=compact" alt="rohit9252" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit9252&show_icons=true&locale=en&layout=compact" alt="rohit9252" width="80%"  /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit9252&show_icons=true&locale=en" alt="rohit9252" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit9252&show_icons=true&locale=en" alt="rohit9252" width="80%"  /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit9252&" alt="rohit9252" width="100%"  height="200px"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit9252&" alt="rohit9252" width="80%"  /></p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
                                                        
