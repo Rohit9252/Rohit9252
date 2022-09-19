@@ -46,7 +46,7 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=rohit9252&theme=xcode" height ="307"/>
 
-![snake gif](https://github.com/rohit9252/rohit9252/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ahtishamkhan5678/ahtishamkhan5678/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
