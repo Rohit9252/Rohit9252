@@ -52,7 +52,7 @@
 
                                                           
 
-<h3 align="left">🛠 &nbsp;Tech Stack </h3>
+<h3 align="Center">🛠 &nbsp;Tech Stack </h3>
 
 <div align="center">  
 	
