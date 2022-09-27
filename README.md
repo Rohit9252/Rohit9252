@@ -11,9 +11,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit9252" alt="rohit9252" /></a> </p>
 
-- Bigbasket.Com Is India's Largest Online Food And Grocery Store Tech Stack:- HTML, CSS,JAVA SCRIPT [Big Basket Clone](https://jazzy-cupcake-d4c618.netlify.app/)
+
 
 - 🌱 I’m currently learning **SQL, RDBMS, Maven, Hibernate, JPA, SpringBoot, MVC, RESTFul web services,**
+- Bigbasket.Com Is India's Largest Online Food And Grocery Store Tech Stack:- HTML, CSS,JAVA SCRIPT [Big Basket Clone](https://jazzy-cupcake-d4c618.netlify.app/)
 
 - LeadIQ Connects Your Favorite Sales Tools Productive And Effective. Tech Stack:- HTML, CSS,JAVA SCRIPT [Lead IQ Clone](https://darling-monstera-c7dcbc.netlify.app/)
 
@@ -52,7 +53,7 @@
 
                                                           
 
-<h3 align="Center">🛠 &nbsp;Tech Stack </h3>
+<h3 align="center">🛠 &nbsp;Tech Stack </h3>
 
 <div align="center">  
 	
