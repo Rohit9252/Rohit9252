@@ -38,9 +38,10 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rohit9252&show_icons=true&locale=en" alt="rohit9252"   /></p>
 																	 
-																	 <br>
+																	
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit9252&" alt="rohit9252"  width="60%"  /></p>
+															    <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
                                                        
