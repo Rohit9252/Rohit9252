@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit9252&label=Profile%20views&color=0e75b6&style=flat" alt="rohit9252" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit9252" alt="rohit9252" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit9252" alt="rohit9252" /></a> </p>
 
 - Bigbasket.Com Is India's Largest Online Food And Grocery Store Tech Stack:- HTML, CSS,JAVA SCRIPT [Big Basket Clone](https://jazzy-cupcake-d4c618.netlify.app/)
 
