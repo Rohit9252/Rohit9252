@@ -71,7 +71,7 @@
 
 <h3 align="center">🛠 &nbsp;Tech Stack </h3>
 
-<div align="center">  
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -86,9 +86,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FF9900.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF5733.svg?style=for-the-badge&logo=git&logoColor=white)
-                   </div>
-
-
  
 
 <!--    -->
