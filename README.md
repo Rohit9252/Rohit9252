@@ -54,15 +54,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
   </div>
 
-<br/>  
 
-## 🎶 Music is the only thing I’ve ever known that doesn’t have any rules at all.
-
-<br/>
-
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31yslkwzd5uobil66pkxkiwjq2ea&cover_image=true&theme=default&show_offline=false"/>
-</div>   
 
 <br />
                                                        
