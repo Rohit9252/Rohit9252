@@ -36,7 +36,35 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
+<p align="center">
+  <a href="https://github.com/dipeshsingh253">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rohit9252&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit9252&theme=gotham&hide_border=false" />
+  </a>
+</p>
+  
+  <img src="https://activity-graph.herokuapp.com/graph?username=rohit9252&theme=gotham&line=bf17fd&point=38b7ab&area=true&hide_border=false" />
+  <br/>  
 
+## ✍️ Random Dev Quote
+  
+<br/>
+<div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  </div>
+
+<br/>  
+
+## 🎶 Music is the only thing I’ve ever known that doesn’t have any rules at all.
+
+<br/>
+
+<div align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31yslkwzd5uobil66pkxkiwjq2ea&cover_image=true&theme=default&show_offline=false"/>
+</div>   
+
+<br />
                                                        
 
 
