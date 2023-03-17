@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi , I'm Rohit Kumar Mondal 👋</h1>
 <h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
-<img align ="right"alt="Coding"width=400" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=1000x500">
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Rohit9252/Rohit9252/blob/main/coding-freak%20(1).gif">
 
