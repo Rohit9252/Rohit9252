@@ -4,25 +4,23 @@
 <h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
 <img align ="right"alt="Coding"width=400" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=1000x500">
 
+<img align="right" alt="Coding" width="400" src="https://github.com/Rohit9252/Rohit9252/blob/main/coding-freak%20(1).gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit9252&label=Profile%20views&color=0e75b6&style=flat" alt="rohit9252" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit9252" alt="rohit9252" /></a> </p>
-
+- 👨‍💻 Checkout my [Portfolio](https://rohit9252.github.io/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 
-- 🌱 I’m currently learning **SQL, RDBMS, Maven, Hibernate, JPA, SpringBoot, MVC, RESTFul web services,**
-- Bigbasket.Com Is India's Largest Online Food And Grocery Store Tech Stack:- HTML, CSS,JAVA SCRIPT [Big Basket Clone](https://jazzy-cupcake-d4c618.netlify.app/)
+<!-- Resume -->
+-  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/1yGiBW-SRO9KmsCRhPzVWctrsZPsZeKs3/view?usp=sharing) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- LeadIQ Connects Your Favorite Sales Tools Productive And Effective. Tech Stack:- HTML, CSS,JAVA SCRIPT [Lead IQ Clone](https://darling-monstera-c7dcbc.netlify.app/)
-- E Commerec rest-Api with frontend (https://github.com/Dev-Mriganka/REST-API-Ecommerce-Site)
 
-- 👨‍💻 All of my projects are available at [https://rohit9252.github.io/](https://rohit9252.github.io/)
+<!-- <img width="30" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > -->
 
-- 💬 Ask me about **Java, JavaScript ,SQL**
 
-- 📫 How to reach me **rohitbatra0165@gmail.com**
+- 💬 Ask me about anything, I am happy to help <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
+- 📫 How to reach me **mrigankamondal10@gmail.com** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+                                                                                                                         
+                                                                                                                         
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rohit kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit kumar" height="30" width="40" /></a>
