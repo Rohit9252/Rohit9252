@@ -57,7 +57,11 @@
 
 <br>
                                                                                                    
-                                                                                                   
+<div>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rohit9252}/count.svg" /></p> 
+<br>
+</div>                                                                                                   
 
 <p align="center">
 <img align="" height='120px' src="https://github.com/Rohit9252/Rohit9252/blob/main/Geometric%20White.gif" />
