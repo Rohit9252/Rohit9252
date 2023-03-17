@@ -1,10 +1,7 @@
 ![](https://github.com/Rohit9252/Rohit9252/blob/main/Untitled-1.jpg)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Rohit+Kumar!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
-
-
-<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">A Creative And Diligent Aspiring Full-Stack Developer With A Specialization In Java Backend. Self-Believing And Enthusiastic, With A Keen Interest In Building And Designing Backend. Looking Forward To Sharpening My Skills In A Challenging Environment. I Guarantee Enthusiasm In Work And Fulfilling My Projects With Inexpressible Efforts.</h3>
+<h1 align="center">Hi , I'm Rohit Kumar Mondal 👋</h1>
+<h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
 <img align ="right"alt="Coding"width=400" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=1000x500">
 
 
