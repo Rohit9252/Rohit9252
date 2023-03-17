@@ -21,6 +21,56 @@
                                                                                                                          
                                                                                                                          
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rohit-kumar-3b02451b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mriganka10" height="30" width="40" /></a>
+<a href="https://www.facebook.com/batra.rohit10113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wrick.mondal.90" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/walker9252/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/dev_mriganka" height="30" width="40" /></a>
+<a href="https://leetcode.com/rohitbatra0165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1onewalker" height="30" width="40" /></a>
+
+</p>
 
 
+<br>
 
+
+## 🚀 Languages and Tools:
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,mongodb,postgres,spring,maven,hibernate,react,nodejs,bootstrap,cpp,c++,git,netlify,idea,eclipse,vscode,figma,au,ai,ps,pr)](https://skillicons.dev)
+
+<br>
+
+## 📊 My Github Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rohit9252&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit9252&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit9252&theme=tokyonight" align="center" />
+</p>
+
+<div align="center"  >
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rohit9252&column=7&theme=onedark"" />
+  </a>
+<div>
+
+<br>
+                                                                                                   
+                                                                                                   
+
+<p align="center">
+<img align="" height='120px' src="https://github.com/Rohit9252/Rohit9252/blob/main/Geometric%20White.gif" />
+  <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+  <img align="" height='120px' src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Geometric%20White.gif" />
+</p>
+<br>       
+                                                                                                                 
+<hr>
+<p align="center">
+  <i>Ask me anything I'am Happy to Help! </i>
+  <br><br>
+<a target="_blank" href="https://www.linkedin.com/in/rohit-kumar-3b02451b8/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:rohitbatra0165@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<br>
+</p>
