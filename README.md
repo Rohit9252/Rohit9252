@@ -1,6 +1,6 @@
 ![](https://github.com/Rohit9252/Rohit9252/blob/main/Untitled-1.jpg)
 
-<h1 align="center">Hi , I'm Rohit Kumar Mondal 👋</h1>
+<h1 align="center">Hi , I'm Rohit Kumar  👋</h1>
 <h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Rohit9252/Rohit9252/blob/main/coding-freak%20(1).gif">
