@@ -46,7 +46,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rohit9252&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit9252&theme=tokyonight" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit9252&theme=tokyonight" align="center" />
+
 </p>
 
 <div align="center"  >
