@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rohit-kumar-3b02451b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mriganka10" height="30" width="40" /></a>
-<a href="https://www.facebook.com/batra.rohit10113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wrick.mondal.90" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-kumar-3b02451b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rohit Kumar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/batra.rohit10113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rohit Kumar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/walker9252/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/dev_mriganka" height="30" width="40" /></a>
-<a href="https://leetcode.com/rohitbatra0165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1onewalker" height="30" width="40" /></a>
+<a href="https://leetcode.com/rohitbatra0165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Rohit Kumar" height="30" width="40" /></a>
 
 </p>
 
